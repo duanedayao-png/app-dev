@@ -7,4 +7,7 @@ This repository contains my personal information and favorite movies.
 - [About Me](about-me.md) - Contains my personal introduction, course, hobbies, and favorite programming language.
 - [Favorite Movies](favorites/movies.md) - Contains my five favorite movies and their descriptions.
 
+## Repository Contents
 
+- about-me.md – Contains my personal introduction.
+- favorites/movies.md – Contains my favorite movies or series.
